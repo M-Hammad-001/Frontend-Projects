@@ -1,0 +1,61 @@
+body{
+    background-color: whitesmoke;
+}
+
+#logogoeshere {
+    width: 100%; 
+    height: 120px; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+#logogoeshere img {
+    width : 150px;
+    height: auto;
+}
+
+#ox1{ 
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 350px;
+    height: 200px;
+    background-color: white;
+    margin-inline: auto;
+}
+
+#email {
+    border:1px solid black;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    margin: 2px;
+}
+
+#passcode {
+    border:1px solid black;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    margin: 2px;
+}
+
+#butone {
+    background-color: #F55D2C;
+    color: white;
+    padding: 05px 70px;
+    margin: 2px;
+}
+
+#already {
+    margin: 2px;
+
+}
+
+#buttwo {
+    background-color: #F55D2C;
+    color: white;
+}
